@@ -3,5 +3,10 @@
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
+/gradle
+/.idea
+/gradlew
+/gradlew.bat
 /build
 /captures
+/TimeTap.iml
