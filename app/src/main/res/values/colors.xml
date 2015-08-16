@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="ab_color">@color/primary</color>
+    <color name="primary">#FF363F</color>
+    <color name="primary_dark">#bF2020</color>
+    <color name="accent">#FF363F</color>
+    <color name="statbar_color">@color/primary_dark</color>
+    <color name="windowBackground">#ffffff</color>
+
+</resources>
